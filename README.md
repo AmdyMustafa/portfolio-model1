@@ -12,11 +12,11 @@ Pour installer et exécuter ce projet localement, suivez les étapes ci-dessous 
 
 1. Clonez le dépôt :
    ```bash
-    git clone https://github.com/AmdyMustafa/Portfilio.git
+    git clone https://github.com/AmdyMustafa/portfolio-model1.git
 
 2. Accédez au répertoire du projet :
    ```bash
-    cd Portfilio
+    cd portfolio-model1
 
 3. Installez les dépendances nécessaires :
    ```bash
