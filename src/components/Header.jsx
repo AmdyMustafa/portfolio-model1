@@ -39,7 +39,7 @@ function Header({ activeSection, isAtTop }) {
             <a className="titre" href="#section_head">
                 Model 1
             </a>
-            <a className="titre" href="#section_head">
+            <a className="titre" href="https://amdymustafa.github.io/portfolio-model2/">
                 Model 2
             </a>
             </div>
