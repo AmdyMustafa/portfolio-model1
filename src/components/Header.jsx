@@ -31,7 +31,7 @@ function Header({ activeSection, isAtTop }) {
 
     return (
         <nav className="barre_entete" id="mainNav" style={{
-            fontSize: isAtTop ? '40px' : '30px',
+            fontSize: isAtTop ? '30px' : '20px',
             height: isAtTop ? 'auto' : 'auto',
             transition: 'font-size 0.3s ease-in-out, height 0.3s ease-in-out'
         }}>

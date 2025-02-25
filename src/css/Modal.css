@@ -89,4 +89,19 @@
         height: 400px;
         border-radius: 20px;
     }
+    .modal-content {
+        width: 90%;
+    }
+    .description {
+        margin: 20px 10px;
+    }
+    .modal-content h2{
+        font-size: 20px;
+    }
+    .modal-content .lines-star{
+        width: 90%;
+    }
+    .close-btn1 {
+        font-size: 30px;
+    }
 }
