@@ -3,7 +3,7 @@ import "../css/About.css";
 function About() {
     return (
         <section className="section_about">
-            <h2 >ABOUT</h2>
+            <h2 >A PROPOS</h2>
             {/* Icon Divider*/}
             <div className="lines-star">
                 <div className="line"></div>

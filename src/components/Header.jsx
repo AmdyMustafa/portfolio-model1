@@ -63,7 +63,7 @@ function Header({ activeSection, isAtTop }) {
                    }}
             >
                 <a href="#section_projets" className={activeSection === 'section_projets' ? 'active' : ''}>Projects</a>
-                <a href="#section_about" className={activeSection === 'section_about' ? 'active' : ''}>About</a>
+                <a href="#section_about" className={activeSection === 'section_about' ? 'active' : ''}>A propos</a>
                 <a href="#section_contacts" className={activeSection === 'section_contacts' ? 'active' : ''}>Contacts</a>
             </div>
         </nav>

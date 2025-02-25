@@ -27,17 +27,17 @@ function Contacts() {
       <form id="contactForm" ref={formRef} onSubmit={handleSubmit}>
         <div className="form-elem">
           <input className="input" id="name" name="name" type="text" placeholder=" " required />
-          <label htmlFor="name">Full name</label>
+          <label htmlFor="name">Nom</label>
         </div>
 
         <div className="form-elem">
           <input className="input" id="email" name="email" type="email" placeholder=" " required />
-          <label htmlFor="email">Email address</label>
+          <label htmlFor="email">Email</label>
         </div>
 
         <div className="form-elem">
           <input className="input" id="phone" name="phone" type="tel" placeholder=" " required />
-          <label htmlFor="phone">Phone number</label>
+          <label htmlFor="phone">Tel</label>
         </div>
 
         <div className="form-elem">
@@ -46,7 +46,7 @@ function Contacts() {
         </div>
 
         <button className="button_send" type="submit" disabled={state.submitting}>
-          Send
+          Envoyer
         </button>
       </form>
     </section>
